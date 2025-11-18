@@ -1,4 +1,4 @@
-# Collez le code ci-dessous (tout le script Python corrigé) :
+
 
 import sys
 import requests
