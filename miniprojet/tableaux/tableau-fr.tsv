@@ -1,10 +1,11 @@
-1	https://fr.wikipedia.org/wiki/Robot	200	UTF-8	4909
-2	https://fr.wikipedia.org/wiki/Robot_de_cuisine	200	UTF-8	796
-3	fr.wikipedia.org/wiki/Robot_d%27indexation	200	UTF-8	1291
-4	https://fr.wikipedia.org/wiki/Bot_informatique	200	UTF-8	2150
-5	https://fr.wikipedia.org/wiki/Atlas_(robot)	200	UTF-8	820
+numero	URL	code	encodage	nombre de mots
+1	https://fr.wikipedia.org/wiki/Robot	200	UTF-8	5800
+2	https://fr.wikipedia.org/wiki/Robot_de_cuisine	200	UTF-8	1280
+3	fr.wikipedia.org/wiki/Robot_d%27indexation	200	UTF-8	1901
+4	https://fr.wikipedia.org/wiki/Bot_informatique	200	UTF-8	2702
+5	https://fr.wikipedia.org/wiki/Atlas_(robot)	200	UTF-8	1286
 6	https://roboty.magistry.fr	ERREUR CONNEXION	N/A	N/A
 7	https://fr.wikipedia.org/wiki/Robot_(Leonard_de_Vinci)	404	N/A	N/A
-8	https://fr.wiktionary.org/wiki/robot	200	UTF-8	3876
-9	https://fr.wikipedia.org/wiki/Protocole_d%27exclusion_des_robots	200	UTF-8	768
-10	https://fr.wikipedia.org/wiki/Robotique	200	UTF-8	12565
+8	https://fr.wiktionary.org/wiki/robot	200	UTF-8	4932
+9	https://fr.wikipedia.org/wiki/Protocole_d%27exclusion_des_robots	200	UTF-8	1258
+10	https://fr.wikipedia.org/wiki/Robotique	200	UTF-8	13144
