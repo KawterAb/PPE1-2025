@@ -1,17 +1,12 @@
 #!/bin/bash
-# Script: comptes.sh
-# Compte le nombre de Locations pour chaque année.
+# Script: comptes.sh (Version avec boucle)
+# Compte le nombre de Locations pour chaque année en utilisant une boucle.
 
 echo "Nombre de Locations par Année :"
 
-# Compte pour 2016
-COUNT_2016=$(grep -r "Location" ../Exercice1/ann/2016/*.ann | wc -l)
-echo "2016: $COUNT_2016"
-
-# Compte pour 2017
-COUNT_2017=$(grep -r "Location" ../Exercice1/ann/2017/*.ann | wc -l)
-echo "2017: $COUNT_2017"
-
-# Compte pour 2018
-COUNT_2018=$(grep -r "Location" ../Exercice1/ann/2018/*.ann | wc -l)
-echo "2018: $COUNT_2018"
+for ANNEE in 2016 2017 2018
+do
+    # Compte les lignes contenant le terme "Location" pour l'année courante
+    COUNT=$(grep -r "Location" ../Exercice1/ann/$ANNEE/*.ann | wc -l)
+    echo "$ANNEE: $COUNT"
+done
