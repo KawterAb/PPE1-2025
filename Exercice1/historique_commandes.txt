@@ -1,0 +1,1000 @@
+   51  sudo apt-get update
+   52  sudo apt-get install curl
+   53  curl -fsSL https://pixi.sh/install.sh | bash
+   54  ls../winer/2016
+   55  ls ../pyton
+   56  ls ../winer/pyton-M1tal
+   57  ls../pyton-m1tal
+   58  ls ../pyton-M1TAL
+   59  ls projet kawter
+   60  ls ../projet kawter
+   61  ls exercice
+   62  ls
+   63  pwd 
+   64  cd
+   65  exercice
+   66  ls exercice
+   67  pwd
+   68  cd
+   69  ~/bureau
+   70  mkdir Exercice4
+   71  ls
+   72  pwd
+   73  rm Exercice3
+   74  cd ~/Exercice4
+   75  wget http://plurital.org/ppe1/seance1/archive-25.zip
+   76  unzip
+   77  unzip archive-25.zip
+   78  ~Exercice4
+   79  cd *Exercice4
+   80  cd .
+   81  cd..
+   82  cd ..
+   83  history
+   84  cd Exercice4
+   85  mkdir txt ann img docs 
+   86  ls
+   87  mv *.{jpg,png,svg,jpg} img
+   88  mv *.{jpg,png,svg,jpg} Exercice4/img
+   89  mv *.{j,*png img/
+   90  Exercice4/img
+   91  ls
+   92  mv * {jpg,png,svg,JPG,gif,jpeg,PNG,GIF,webp}
+   93  mv * {jpg,png,svg,JPG,gif,jpeg,PNG,GIF,webp} Exercice4/img
+   94  mv * {jpg,png,svg,JPG,gif,jpeg,PNG,GIF,webp} Exercice4/img/
+   95  mv *{jpg,png,svg,JPG,g Exercice4/img/
+   96  mv *.{jpg,png,svg,jpg} Exercice4/img
+   97  cd ArborescenceKaouther
+   98  mkdir txt
+   99  w get
+  100  https://damien.nouvel.net/bazar/
+  101  wget [200~https://damien.nouvels.net/bazar/80jours.txt~
+  102  wget https://damien.nouvels.net/bazar/80jours.txt
+  103  less
+  104  less 80jours.txt
+  105  git clone git@github.com:KawterAb/PPE1-2023.git
+  106  [200~cd PPE1−2023/
+  107  [200~cd PPE1−2024/
+  108  cd PPE1-2024/
+  109  cd PPE1-2024/ git status
+  110  cd PPE1-2024/git status
+  111  history
+  112  80 jours txt 
+  113  egrep --color "regexp" 80jours.txt~
+  114  egrep --color "paris" 80jours.txt~
+  115  egrep --color "Paris" 80jours.txt~
+  116  ls
+  117  cd 80jours.txt~
+  118  ls
+  119  egrep 80jours.txt
+  120  git clone git@github.com:KawterAb/PPE1-2024.git
+  121  cd PPE1-2024
+  122  git status
+  123  git clone git@github.com:KawterAb/PPE1-2024.git
+  124  git status
+  125  cd PPE1-2024
+  126  git status
+  127  git add journal.md
+  128  wc 
+  129  wc
+  130  wc <
+  131  wc < choeur.txt
+  132  wc < journal.md
+  133  cd bureau
+  134  man wc
+  135  cat output.txt
+  136  less
+  137  les
+  138  cd--*
+  139  cd--
+  140  --cd
+  141  cd..
+  142  cd ..
+  143  cat choeur.txt
+  144  wc winer 80jours.txt
+  145  wc 80jours.txt
+  146  wc 80jours.txt output.txt
+  147  wc 80jours.txt 2> errors.txt
+  148  wc 80jours.txt &>
+  149  1 | 2 
+  150  cd..
+  151  cd ..
+  152  cd ...
+  153  cd ..
+  154  cat 80.jours.txt grep --help
+  155  egrep heureux
+  156  git pull
+  157  git fetch
+  158  git status
+  159  ls -a
+  160  git pull
+  161  ls .git/
+  162  cat .git/index 
+  163  cat .git/ORIG_HEAD 
+  164  cat .git/config 
+  165  cd ..
+  166  git clone git@github.com:pmagistry/PPE1-2024.git PPE-prof
+  167  git fetch
+  168  cd PPE.prof
+  169  cd PPE-prof/
+  170  git status 
+  171  git pull
+  172  git pull
+  173  les
+  174  man wc 
+  175  cat ann
+  176  cd ..
+  177  git clone git@github.com:KawterAb/Exercices.git
+  178  cd Exercices
+  179  cd..
+  180  cd ..
+  181  cd ...
+  182  cd ..
+  183  cat ann
+  184  cat 2016
+  185  cat 2016
+  186  grep ann 2016
+  187  echo "Annotations en 2016 :" > Exercices/comptes.txt
+  188  echo "Annotations en 2016 :" > cd../cd../Exercices/comptes.txt
+  189  echo "Annotations en 2016 :" > ../../Exercices/comptes.txt
+  190  grep "2016" annotations_2016.ann | wc -l >> ../../Exercices/comptes.txt
+  191  grep "^2016" annotations_2016.ann | wc -l >> ../../Exercices/comptes.txt
+  192  grep "^2016^" annotations_2016.ann | wc -l >> ../../Exercices/comptes.txt
+  193  grep "2016^" annotations_2016.ann | wc -l >> ../../Exercices/comptes.txt
+  194  touch comptes.txt
+  195  grep "2016"
+  196  echo "Annotations en 2016 :" > Exercices/comptes.txt
+  197  cd ..
+  198  cd .. 
+  199  [200~echo "Annotations en 2016 :" > Exercices/comptes.txt
+  200  grep "2016" annotations_2016.ann | wc -l >> Exercices/comptes.txt~
+  201  echo "Annotations en 2016 :" > Exercices/comptes.txt
+  202  echo "Annotations en 2016 :" > comptes.txt
+  203  grep "2016" annotations_2016.ann | wc -l >> comptes.txt
+  204  echo "Annotations en 2016 :" > Exercices/comptes.txt
+  205  echo "Annotations en 2016 :" > comptes.txt
+  206  grep "2016" annotations_2016.ann | wc -l >> comptes.txt
+  207  echo "Annotations en 2016 :" > Exercices/comptes.txt
+  208  touch comptes.txt
+  209  grep '2016' ~/Bureau/cours/ann/*.ann | wc -l
+  210  grep '2016' cours/ann/*.ann | wc -l
+  211  grep '2016*' cours/ann/*.ann | wc -l
+  212  grep '2016^' cours/ann/*.ann | wc -l
+  213  grep '2016' *.ann | wc -l
+  214  :set fileencoding
+  215  nano choeur.txt
+  216  grep '2016' ~/Bureau/cours/ann/*.ann | wc -l
+  217  grep '2016' ~/Bureau/cours/ann/2016/*.ann | wc -l
+  218  grep '2016' ~/Bureau/cours/ann/2017/*.ann | wc -l
+  219  grep '2018' ~/Bureau/cours/ann/2018/*.ann | wc -l
+  220  grep '2016' ~/Bureau/cours/ann/2017/*.ann | wc -l
+  221  grep '2017' ~/Bureau/cours/ann/2017/*.ann | wc -l
+  222  echo "Annotations en 2016 :" > comptes.txt
+  223  grep '2016' ~/Bureau/cours/ann/2016/*.ann | wc -l >> comptes.txt
+  224  echo "Annotations en 2017 :" > comptes.txt
+  225  grep '2017' ~/Bureau/cours/ann/2017/*.ann | wc -l >> comptes.txt
+  226  echo "Annotations en 2018 :" > comptes.txt
+  227  grep '2018' ~/Bureau/cours/ann/2018/*.ann | wc -l >> comptes.txt
+  228  echo "Annotations en 2016 :" >> comptes.txt
+  229  grep '2016' ~/Bureau/cours/ann/2016/*.ann | wc -l >> comptes.txt
+  230  echo "Annotations en 2017 :" >> comptes.txt
+  231  grep '2017' ~/Bureau/cours/ann/2017/*.ann | wc -l >> comptes.txt
+  232  echo "Annotations en 2018 :" >> comptes.txt
+  233  grep '2018' ~/Bureau/cours/ann/2018/*.ann | wc -l >> comptes.txt
+  234  pwd
+  235  git status
+  236  git add .
+  237  git status
+  238  git commit -m "compter les annotations par an"
+  239  git status
+  240  git push
+  241  touch locations.txt
+  242  echo "Annotations par lieu en 2016 :" > ~/Bureau/cours/Exercices/locations.txt
+  243  grep '2016' ~/Bureau/cours/ann/2016/*.ann | grep 'Location' | wc -l >> ~/Bureau/cours/Exercices/locations.txt
+  244  echo "Annotations par lieu en 2017 :" >> ~/Bureau/cours/Exercices/locations.txt
+  245  grep '2017' ~/Bureau/cours/ann/2017/*.ann | grep 'Location' | wc -l >> ~/Bureau/cours/Exercices/locations.txt
+  246  echo "Annotations par lieu en 2018 :" >> ~/Bureau/cours/Exercices/locations.txt
+  247  grep '2018' ~/Bureau/cours/ann/2018/*.ann | grep 'Location' | wc -l >> ~/Bureau/cours/Exercices/locations.txt
+  248  git status
+  249  git add . 
+  250  git commit -m "compter location dans les ann" 
+  251  git push
+  252  grep 'Location' ~/Bureau/cours/ann/2016/*.ann | cut -d' ' -f3- | sort | uniq -c | sort -nr | head -n 15 > ~/Bureau/cours/Exercices/classement_2016.txt
+  253  grep 'Location' ~/Bureau/cours/ann/2016/*.ann | cut -d' ' -f3- | sort | uniq -c | sort -nr > ~/Bureau/cours/Exercices/classement_2016.txt
+  254  grep 'Location' ~/Bureau/cours/ann/2016/*.ann | cut -d' ' -f3- | sort | uniq -c | sort -nr | head -n 15 > ~/Bureau/cours/Exercices/classement_2016.txt
+  255  grep 'Location' ~/Bureau/cours/ann/2016/*.ann | cut | sort | uniq -c | head -n 15 > ~/Bureau/cours/Exercices/classement_2016.txt
+  256  grep 'Location' ~/Bureau/cours/ann/2016/*.ann | cut -f | sort | uniq -c | head -n 15 > ~/Bureau/cours/Exercices/classement_2016.txt
+  257  grep 'Location' ~/Bureau/cours/ann/2016/*.ann | cut | sort | uniq -c | head -n 15 > ~/Bureau/cours/Exercices/classement_2016.txt
+  258  grep 'Location' ~/Bureau/cours/ann/2016/*.ann | cut -d' ' | sort | uniq -c | head -n 15 > ~/Bureau/cours/Exercices/classement_2016.txt
+  259  grep 'Location' ~/Bureau/cours/ann/2016/*.ann | cut | sort | uniq -c | head -n 15 > ~/Bureau/cours/Exercices/classement_2016.txt
+  260  grep 'Location' ~/Bureau/cours/ann/2016/*.ann | cut -d' ' -f3- | sort | uniq -c | sort -nr | head -n 15 > ~/Bureau/cours/Exercices/classement_2016.txt
+  261  grep 'Location' ~/Bureau/cours/ann/2017/*.ann | cut -d' ' -f3- | sort | uniq -c | sort -nr | head -n 15 > ~/Bureau/cours/Exercices/classement_2017.txt
+  262  grep 'Location' ~/Bureau/cours/ann/2018/*.ann | cut -d' ' -f3- | sort | uniq -c | sort -nr | head -n 15 > ~/Bureau/cours/Exercices/classement_2018.txt
+  263  git status
+  264  git add .
+  265  git status
+  266  git commit -m "Exercice2"
+  267  git push
+  268  grep 'Location' ~/Bureau/cours/ann/*/*.ann | grep '-01-' | cut -d' ' -f3- | sort | uniq -c | sort -nr | head -n 15 > ~/Bureau/cours/Exercices/classement_janvier.txt
+  269  grep 'Location' ~/Bureau/cours/ann/*.ann | grep '-01-' | cut -d' ' -f3- | sort | uniq -c | sort -nr | head -n 15 > ~/Bureau/cours/Exercices/classement_janvier.txt
+  270  grep 'Location' ~/Bureau/cours/ann/2016/*.ann | grep '-01-' | cut -d' ' -f3- | sort | uniq -c | sort -nr | head -n 15 > ~/Bureau/cours/Exercices/classement_janvier.txt
+  271  grep 'Location' ~/Bureau/cours/ann/2016/*.ann  | cut -d' ' -f3- | sort | uniq -c | sort -nr | head -n 15 > ~/Bureau/cours/Exercices/classement_janvier.txt
+  272  grep 'Location' ~/Bureau/cours/ann/2017/*.ann  | cut -d' ' -f3- | sort | uniq -c | sort -nr | head -n 15 > ~/Bureau/cours/Exercices/classement_janvier.txt
+  273  grep 'Location' ~/Bureau/cours/ann/2018/*.ann  | cut -d' ' -f3- | sort | uniq -c | sort -nr | head -n 15 > ~/Bureau/cours/Exercices/classement_janvier.txt
+  274  git status
+  275  history
+  276  git status
+  277  git add . 
+  278  git commit -m "dernier commit"
+  279  git push
+  280  git tag fin-ex-pipelines
+  281  git push origin fin-ex-pipelines
+  282  cd ..
+  283  nano --encoding=UTF-8 choeur.txt
+  284  nano -h
+  285  choeur.txt: text/plain; charset=utf-8
+  286  file -i choeur.txt
+  287  choeur.txt: text/plain; charset=iso-8859-1
+  288  file -i choeur.txt
+  289  xxd choeur.txt
+  290  sudo apt install hexcurse
+  291  hexcurse choeur.txt
+  292  [200~grep '2016' cours/ann/*.ann | wc -l
+  293  grep '2016' cours/ann/*.ann | wc -l
+  294  ~/Bureau/cours/Exercices/locations.txt
+  295  egrep --color "merci" 80jours.txt
+  296  egrep --color "heureux|heureuse|heureuses" 80jours.txt
+  297  egrep --color "\b(di(r[ae]nt?|s|t|t?es?|r(a(i[st]?|ons?|ont)|ions?|ez)?|iss(e|aient?|ions?|ez))|dit)\b" 80jours.txt
+  298  egrep --color "\b(vais?|all(ons?|ez|ait|aient|a|é|és|ée|ées)|irai(s|t|ent)?|iras?|iraient?|allât|ir(ons?|ez|aient?|ait))\b" 80jours.txt
+  299  egrep --color "[0-9]{1,2} [A-Za-z]+ [0-9]{4}|[0-9]{4}" 80jours.txt
+  300  egrep --color "\b[IVXLCDM]+\b" 80jours.txt
+  301  egrep --color "\w+" 80jours.txt
+  302  egrep --color "<[^>]+>" 80jours.txt
+  303  exit
+  304  vim premier script
+  305  nano premier script
+  306  hx
+  307  sudo snap install helix
+  308  --classic
+  309  nano
+  310  nano premier script sh
+  311  [200~sudo apt install lynx
+  312  sudo apt install lynx
+  313  https://www.lemonde.fr/campus/article/2024/10/11/pas-besoin-de-claquer-sa-dem-et-son-bilan-carbone-pour-vivre-l-aventure-la-mad-jacques-colo-rurale-et-festive-pour-jeunes-diplomes-en-quete-de-depaysement_6349107_4401467.html https://www.vie-publique.fr/parole-dexpert/290174-jeune-jeunesse-chomage-generations-ecole
+  314  mkdir urls.txt
+  315  cd urls.txt
+  316  https://www.lemonde.fr/campus/article/2024/10/11/pas-besoin-de-claquer-sa-dem-et-son-bilan-carbone-pour-vivre-l-aventure-la-mad-jacques-colo-rurale-et-festive-pour-jeunes-diplomes-en-quete-de-depaysement_6349107_4401467.html https://www.vie-publique.fr/parole-dexpert/290174-jeune-jeunesse-chomage-generations-ecole
+  317  bash: https://www.lemonde.fr/campus/article/2024/10/11/pas-besoin-de-claquer-sa-dem-et-son-bilan-carbone-pour-vivre-l-aventure-la-mad-jacques-colo-rurale-et-festive-pour-jeunes-diplomes-en-quete-de-depaysement_6349107_4401467.html: Aucun fichier ou dossier de ce nom
+  318  cd ..
+  319  rmdir urls.txt
+  320  touch urls.txt
+  321  cd urls.txt
+  322  less urls.txt
+  323  pwd urls.txt
+  324  /home/habib/urls.txt
+  325  git pull PPE1-2024/miniprojet at main.pmagistry/PPE1-2024
+  326  git pull PPE1-2024/miniprojet at main .pmagistry/PPE1-2024
+  327  git pull https://github.com/pmagistry/PPE1-2024/tree/main/miniprojet/urls
+  328  touch test007
+  329  nano test007
+  330  cat miniprojet.sh
+  331  touch journal.md
+  332  cd ..
+  333  touch journal.md
+  334  git clone git@github.com:pmagistry/PPE1-2024.git
+  335  ls
+  336  cd PPE1-2024/
+  337  ls
+  338  cd miniprojet/
+  339  ls
+  340  touch index.html
+  341  ls
+  342  git add index.html kaouther.css 
+  343  git -m "ajout de gitpage" commit
+  344  git commit -m "Ajout de gitpage"
+  345  git commit -m "ajout de gitpage" 
+  346  clear
+  347  ls
+  348  cd ..
+  349  ls
+  350  cd PPE1-2024/
+  351  ls
+  352  cd miniprojet/
+  353  ls
+  354  git add index.html kaouther.css 
+  355  git commit -m "ajout de gitpage" 
+  356  cd
+  357  ls
+  358  cd
+  359  ls
+  360  /PPE1-2024/
+  361  LS
+  362  ls
+  363  git add index.html kaouther css
+  364  git add index.html kaouther.css
+  365  git commit-m "ajout de html"
+  366  git commit -m "ajout de html"
+  367  git add index.html kaouther.css
+  368  git commit -m "ajout de html"
+  369  choeur.txt
+  370  ls
+  371  cd
+  372  /mnt/c
+  373  cd /Téléchargements
+  374  cd ~/Téléchargements
+  375  /mnt/c
+  376  iconv -f Mac Os Classic -t ISO-8859-15 coeur.txt
+  377  iconv -f MACINTOSH -t ISO-8859-15 coeur.txt
+  378  iconv -f MACINTOSH -t ISO-8859-15 choeur.txt
+  379  iconv -f MACINTOSH -t ISO-8859-15//TRANSLIT choeur.txt
+  380  choeur.tx
+  381  choeur.txt
+  382  ls
+  383  cd
+  384  ls 
+  385  choeur.txt
+  386  ls 
+  387  git clone git@github.com:wasawarded/PPE_website_marche_sur_la_lune.git
+  388  curl https://ar.wikipedia.org/wiki/%D8%AD%D8%B1%D9%8A%D8%A9
+  389  cd ..
+  390  pwd
+  391  sudo apt install w3m
+  392  pcregrep --version
+  393  sudo apt-get update
+  394  pcregrep --version
+  395  sudo apt-get install pcregrep
+  396  pcregrep --version
+  397  ./script.sh URLs/Arabe.txt
+  398  chmod +x script.sh
+  399  ./script.sh URLs/Arabe.txt
+  400  pwd
+  401  ./script.sh URLs/Arabe.txt
+  402  ./script.sh Arabe.txt
+  403  ./script.sh URLs/Arabe.txt
+  404  chmod +x script.sh
+  405  ./script.sh URLs/Arabe.txt
+  406  ./script.sh /home/habib/Bureau/PPE/Group_Project_PPE1_2024/Group_Project_PPE1_2024/URLs/Arabe.txt
+  407  [200~w3m -dump "http://example.com"
+  408  w3m -dump "http://example.com"
+  409  ./script.sh /home/habib/Bureau/PPE/Group_Project_PPE1_2024/Group_Project_PPE1_2024/URLs/Arabe.txt
+  410  pwd
+  411  ./arabe.sh
+  412  ./Arabe.sh
+  413  chmod +x Arabe.sh
+  414  ./Arabe.sh
+  415  pwd
+  416  chmoud +x make_pals_corpus-arabe.sh dumps-text BASE_NAME contextes
+  417  chmoud +x make_pals_corpus-arabe.sh 
+  418  chmod +x make_pals_corpus-arabe.sh 
+  419  chmoud +x make_pals_corpus-arabe.sh dumps-text BASE_NAME contextes
+  420  chmod +x make_pals_corpus-arabe.sh dumps-text BASE_NAME contextes
+  421  ./make_pals_corpus-arabe.sh dumps-text BASE_NAME contextes
+  422  cd..
+  423  ..cd
+  424  cd.
+  425  .cd
+  426  pip install camel-tools
+  427  cd ..
+  428  sudo apt remove Okteka
+  429  sudo apt remove Okteta
+  430  sudo apt remove Okteta 
+  431  cd ..
+  432  apt list --installed | grep -i okteta
+  433  snap list | grep -i okteta
+  434  sudo snap remove okteta
+  435  snap list | grep -i okteta
+  436  pip install camel-tools
+  437  import camel_tools
+  438  print("Camel Tools est installé correctement.")
+  439  python3
+  440  pip install camel-tools
+  441  sudo snap remove Visuel Studio Code
+  442  snap list | grep -i Visuel Studio Code
+  443  code
+  444  rm -rf ~/.config/Code
+  445  rm -rf /.config/Code
+  446  [200~sudo snap remove code
+  447  sudo snap remove code
+  448  code
+  449  pip install camel-tools
+  450  pip uninstall jupyterlab
+  451  pip uninstall notebook
+  452  jupyter --version
+  453  pip uninstall -y ipython ipykernel jupyter_client jupyter_core jupyter_server nbclient nbconvert nbformat traitlets
+  454  rm -rf ~/.jupyter
+  455  rm -rf ~/Library/Jupyter
+  456  jupyter --version
+  457  pip install camel-tools
+  458  import camel_tools
+  459  print("Camel Tools installé avec succès !")
+  460  pip install camel-tools
+  461  python3
+  462  pip install camel-tools -i https://pypi.tuna.tsinghua.edu.cn/simple
+  463  clear
+  464  python3 --version
+  465  pip install stanza
+  466  clear
+  467  df -h
+  468  sudo apt-get autoremove
+  469  sudo apt-get clean
+  470  rm -rf ~/.cache/pip
+  471  sudo du -ah / | sort -h | tail -n 20
+  472  sudo du -xh / 2>/dev/null | sort -h | tail -n 20
+  473  sudo du -sh /* 2>/dev/null | sort -h
+  474  sudo rm -rf /var/log/*.log
+  475  sudo rm -rf /tmp/*
+  476  rm -rf ~/.cache/rattler
+  477  sudo snap list --all
+  478  sudo snap remove <nom-du-snap> --revision=<ancienne-version>
+  479  sudo snap set system refresh.retain=2
+  480  sudo du -ah /var/lib | sort -h | tail -n 20
+  481  dpkg-query -l | less
+  482  >df -h
+  483  df -h
+  484  sudo swapoff /swapfile
+  485  sudo dd if=/dev/zero of=/swapfile bs=1M count=1024
+  486  sudo mkswap /swapfile
+  487  sudo swapon /swapfile
+  488  >sudo apt-get autoremove
+  489  sudo apt-get clean
+  490  sudo apt-get autoremove
+  491  sudo apt-get clean
+  492  sudo apt install ncdu
+  493  sudo ncdu /
+  494  chmod +x make_pals_corpus-arabe.sh
+  495  ./make_pals_corpus-arabe.sh dumps-text BASE_NAME contextes
+  496  chmod +x make_pals_corpus-arabe.sh
+  497  ./make_pals_corpus-arabe.sh dumps-text BASE_NAME contextes
+  498  chmod +x make_pals_corpus-arabe.sh
+  499  ./make_pals_corpus-arabe.sh dumps-text BASE_NAME contextes
+  500  pip install camel-tools
+  501  clear
+  502  pip install nltk
+  503  chmod +x make_pals_corpus-arabe.sh
+  504  cd ..
+  505  cd /home/habib/Bureau/PPE/Group_Project_PPE1_2024
+  506  ls
+  507  clear
+  508  ls
+  509  python3 Wordcloud-arabe.py
+  510  cd ..
+  511  mkdir /home/habib/Bureau/PPE/Group_Project_PPE1_2024/fonts
+  512  mv /chemin/vers/la/police.ttf /home/habib/Bureau/PPE/Group_Project_PPE1_2024/fonts/
+  513  wget -O Noto_Naskh_Arabic.zip https://github.com/google/fonts/raw/main/ofl/notonaskharabic/NotoNaskhArabic-Regular.ttf
+  514  wget -O NotoNaskhArabic-Regular.ttf https://github.com/notofonts/noto-fonts/blob/main/hinted/ttf/NotoNaskhArabic/NotoNaskhArabic-Regular.ttf?raw=true
+  515  mkdir -p /home/habib/Bureau/PPE/Group_Project_PPE1_2024/fonts
+  516  mv NotoNaskhArabic-Regular.ttf /home/habib/Bureau/PPE/Group_Project_PPE1_2024/fonts/
+  517  ls /home/habib/Bureau/PPE/Group_Project_PPE1_2024/fonts/
+  518  ls /home/habib/Bureau/PPE/Group_Project_PPE1_2024/wordcloud/
+  519  cd /home/habib/Bureau/PPE/Group_Project_PPE1_2024
+  520  python3 Wordcloud-arabe.py
+  521  pip install code 
+  522  pip install wordcloud matplotlib
+  523  pip3 install wordcloud matplotlib
+  524  pip install wordcloud matplotlib
+  525  python3 wordcloud-arabe.py
+  526  chmod +x wordcloud-arabe.py
+  527  python3 wordcloud-arabe.py
+  528  cd ..
+  529  pip install wordcloud matplotlib
+  530  python3 nuage_de_mots_arabe.py
+  531  python3 wordcloud-arabe.py
+  532  /Bureau/PPE/Group_Project_PPE1_2024
+  533  cd /Bureau/PPE/Group_Project_PPE1_2024
+  534  ls /Bureau/PPE/Group_Project_PPE1_2024
+  535  ls
+  536  clear
+  537  sudo apt update
+  538  sudo apt install fonts-noto-arabic
+  539  clear
+  540  sudo apt update
+  541  sudo apt install fonts-noto
+  542  fc-list | grep "Noto"
+  543  chmod x+ wordcloud-arabe.py
+  544  chmod +x wordcloud-arabe.py
+  545  ./wordcloud-arabe.py
+  546  chmod +x wordcloud-arabe.py
+  547  pip install wordcloud matplotlib
+  548  ./wordcloud-arabe.py
+  549  python3 wordcloud-arabe.py
+  550  pwd
+  551  chmod +x cooccurrents-arabe.py
+  552  python3 cooccurrents-arabe.py
+  553  ls
+  554  chmod +x cooccurrents-arabe.py
+  555  chmod +x cooccurrents-arabe.py
+  556  python3 cooccurrents-arabe.py
+  557  chmod +x cooccurrents-arabe.py
+  558  python3 cooccurrents-arabe.py
+  559  chmod +x cooccurrents-arabe.py
+  560  ls
+  561  python3 cooccurrents-arabe.py
+  562  cd ..
+  563  python3 cooccurrents-arabe.py
+  564  python3 --version
+  565  chmod +x cooccurrents-arabe.py
+  566  python3 cooccurrents-arabe.py
+  567  ld
+  568  ls
+  569  python3 cooccurrents-arabe.py
+  570  ls ../pals
+  571  python3 cooccurents-arabe.py
+  572  chmod +x script.py
+  573  chmod +x cooccurents-arabe.py
+  574  python3 --version
+  575  chmod +x wordcloud-arabe.py
+  576  python3 wordcloud-arabe.py
+  577  clearr
+  578  clear
+  579  python3 cooccurents-arabe.py
+  580  ls
+  581  python3 cooccurrents-arabe.py
+  582  git status
+  583  git add .
+  584  git status
+  585  git commit -m "travail de kawter"
+  586  git push origin main 
+  587  sudo apt update
+  588  sudo apt install python3 python3-pip
+  589  pip install jupyterlab
+  590  jupyter-lab
+  591  git checkout main  
+  592  git pull           
+  593  git checkout -b numerotation
+  594  git add dormeur.txt
+  595  git commit -m "Ajout des numéros de strophes au texte"
+  596  git push origin numerotation
+  597  git checkout numerotation
+  598  git merge casse
+  599  git add dormeur.txt
+  600  git commit -m "Résolution du conflit entre numerotation et casse"
+  601  git push
+  602  git push --set-upstream origin numerotation
+  603  git checkout main
+  604  git merge numerotation
+  605  git push
+  606  git log --oneline --reverse
+  607  git checkout 08cf9a5
+  608  git checkout -b doc
+  609  touch journal.md
+  610  git add journal.md
+  611  git commit -m "Ajout du fichier journal.md pour documentation"
+  612  git push --set-upstream origin doc
+  613  nano lowercase.py
+  614  git checkout -b kawter_ex1
+  615  ls
+  616  cd tp2
+  617  ls
+  618  git branch -a
+  619  git checkout doc
+  620  git status
+  621  git push origin ka-s3e1r1-relu
+  622  git checkout kd
+  623  git tag -a KA-s3e1r1-relu
+  624  [200~git checkout kd
+  625  git checkout kd
+  626  git tag kd-s3e1r1-relu
+  627  git push origin kd-s3e1r1-relu
+  628  git push origin --tags
+  629  git checkout kd
+  630  git tag -a ka-s3e1r1-relu -m "Relecture terminée pour l'exercice 1, rôle r1"
+  631  git push origin ka-s3e1r1-relu
+  632  git tag
+  633  git checkout kd
+  634  git tag -a ka-s3e1r1-relu 
+  635  git push origin ka-s3e1r1-relu
+  636  git checkout kd
+  637  git tag -a KA-s3e1r1-relu 
+  638  python rss_reader2.py lun.2025-02-10.13_41 
+  639  python3 rss_reader2.py lun.2025-02-10.13_41 
+  640  python3 rss_reader.py lun.2025-02-10.13_41 
+  641  python3 rss_reader.py / lun.2025-02-10.13_41 
+  642  python3 rss_reader.py ./lun.2025-02-10.13_41 
+  643  python3 rss_reader.py ./lun.2025-02-10.13_41 lun.2025-02-10.13_41 
+  644  cd rss_reader.py
+  645  cd lun.2025-02-10.13_41 
+  646  python3 rss_reader.py ./lun.2025-02-10.13_41
+  647  python3 rss_reader.py ./lun.2025-02-10.13_41 lun.2025-02-10.13_41 
+  648  python3 rss_reader.py ./lun.2025-02-10.13_41 
+  649  python3 rss_reader.py ./lun.2025-02-10.13:41
+  650  git tag ka-s3e2r3-fin
+  651  git push origin ka-s3e2r3-fin
+  652  git log --oneline --graph --decorate --all
+  653  git checkout 4ea2f6ce
+  654  git tag -d ka-s3e2r3-fin
+  655  git tag ka-s3e2r3-fin 4ea2f6ce
+  656  git push origin --force --tags
+  657  git tag -d ka-s3e2r3-fin 
+  658  git commit -m "Ajout de la gestion des erreurs XML pour améliorer la robustesse du parsing"
+  659  git add
+  660  git commit -m "Ajout de la gestion des erreurs XML pour améliorer la robustesse du parsing"
+  661  git status
+  662  git push origin KA  
+  663  git tag ka-s3e1r3-fin
+  664  pwd
+  665  git tag
+  666  git tag -d ka-s3e2r1-relu
+  667  git show kd-s3e2r1-fin
+  668  git tag ka-s3e2r1-relu a19c569c
+  669  git fetch --tags
+  670  git tag
+  671  git ls-remote --tags origin | grep kd-s3e2r1-fin
+  672  git fetch origin tag kd-s3e2r1-fin
+  673  git tag
+  674  git tag ka-s3e2r1-relu kd-s3e2r1-fin
+  675  git push origin ka-s3e2r1-relu
+  676  git tag
+  677  git tag -d ka-s3e2r1-relu
+  678  git show kd-s3e2r1-fin
+  679  git checkout kd-s3e2r1-fin
+  680  git tag
+  681  git fetch --tags
+  682  git tag
+  683  git ls-remote --tags origin | grep kd-s3e2r1-fin
+  684  git show kd-s3e2r1-fin
+  685  git add datastructures.py
+  686  git commit -m "Ajout de datastructures.py pour ex1 fiche 5"
+  687  git restore rss_reader.py
+  688  git add datastructures.py
+  689  [200~git commit -m "Ajout de datastructures.py pour ex1 fiche 5"
+  690  git commit -m "Ajout de datastructures.py pour ex1 fiche 5"
+  691  git push origin Exercice1_S5
+  692  >
+  693  git status
+  694  git pull origin Exercice1_S5
+  695  git config pull.rebase false
+  696  git config pull.rebase true
+  697  git config pull.ff only
+  698  git pull origin Exercice1_S5
+  699  git branch
+  700  git pull origin Exercice1_S5
+  701  git reset --hard origin/Exercice1_S5
+  702  git push origin Exercice1_S5
+  703  git fetch origin
+  704  git checkout Exercice1_S5
+  705  git status
+  706  git add datastructures.py
+  707  git commit -m "Ajout de datastructures.py pour ex1 fiche 5"
+  708  git push origin Exercice1_S5
+  709  [200~git pull origin main  # ou la branche sur laquelle tu travailles
+  710  ~git pull origin main  
+  711  git pull origin main  
+  712  python3 datastructures.py
+  713  python3 datastructures.py
+  714  git pull origin main
+  715  git branch
+  716  git checkout Exercice1_S5
+  717  git checkout -b Exercice1_S5
+  718  git branch
+  719  git add datastructures.py
+  720  git commit -m "Ajout du fichier datastructures.py pour la séparation du code"
+  721  git commit -m "Ajout datastructures.py pour ex1 fiche 5"
+  722  git branch
+  723  git add add datastructures.py
+  724  git add datastructures.py
+  725  git commit -m "Ajout datastructures.py pour ex1 fiche 5"
+  726  python analyzers.py corpus.xml corpus_analyse.xml
+  727  python3 analyzers.py corpus.xml corpus_analyse.xml
+  728  python3 analyzers.py analyze corpus.xml corpus_analyse.xml
+  729  python3 analyzers.py analyze data/corpus.xml corpus_analyse.xml
+  730  ls -l corpus.xml
+  731  python3 analyzers.py analyze /home/habib/PPE2Groupe/groupe8/Projet/corpus.xml corpus_analyse.xml
+  732  git checkout KA-F6
+  733  git status
+  734  git add analyzer.py datastructures.py
+  735  git add .
+  736  git add analyzers.py datastructures.py
+  737  git commit -m "exo 3 et 4"
+  738  git push origin KA-F6
+  739  git pull origin KA-F6
+  740  git add .
+  741  git add analyzers.py datastructures.py
+  742  git commit -m "exo 3 et 4"
+  743  git push origin KA-F6
+  744  git pull origin KA-F6
+  745  git pull --rebase origin KA-F6
+  746  git status
+  747  git status 
+  748  git rebase --abort
+  749  git status
+  750  git add .
+  751  git add analyzers.py datastructures.py
+  752  git commit -m "exo3et4"
+  753  git push origin KA-F6
+  754  git pull --rebase origin KA-F6
+  755  git pull --rebase origin KA
+  756  git push origin KA-F6
+  757  git pull --rebase origin 
+  758  git pull 
+  759  git pull --rebase origin KA-F6
+  760  git status
+  761  git checkout KA-F6
+  762  git status
+  763  git restore --staged datastructures.py
+  764  git status
+  765  git rm datastructures.py
+  766  git add datastructures.py
+  767  git add .
+  768  git add analyzers.py datastructures.py
+  769  git commit -m "exo 3 et 4"
+  770  git push origin KA-F6
+  771  git push --help
+  772  git rm datastructures.py
+  773  git rebase --continue
+  774  git rebase --continue
+  775  python3 analyzers.py corpus.xml corpus_analyse.xml
+  776  python analyzers.py corpus.xml corpus_analyse.xml
+  777  python3 analyzers.py corpus.xml corpus_analyse.xml
+  778  git branch
+  779  git add analyzers.py
+  780  git commit -m "exo 3 et 4"
+  781  git rebase --continue
+  782  python3 analyser_articles_spacy.py
+  783  git checkout -b KA-F6
+  784  LS
+  785  ls
+  786  git add demo_spacy.py
+  787  git commit -m "EX 1 & 2"
+  788  git push origin KA-F6
+  789  git branch  # Affiche les branches locales
+  790  python analyzers.py corpus_original.xml corpus_analyse.xml
+  791  python3 analyzers.py corpus_original.xml corpus_analyse.xml
+  792  python3 analyzers.py corpus.xml corpus_analyse.xml
+  793  python3 analyzers.py analyze corpus.xml corpus_analyse.xml
+  794  ls
+  795  ls -l corpus.xml
+  796  python3 analyzers.py analyze corpus.xml corpus_analyse.xml
+  797  python3 analyzers.py corpus.xml corpus_analyse.xml
+  798  cat corpus_analyse.xml | less
+  799  pip install transformers torch
+  800  sudo du -ah / | sort -rh | head -n 20
+  801  sudo du -ah / | sort -rh | head -n 20
+  802  python3 organize_files.py
+  803  cd ~/corpus-medical-ner
+  804  python3 -m venv venv
+  805  source venv/bin/activate
+  806  pip install -r requirements.txt
+  807  python3 scripts/01_scrape.py
+  808  python3 02_visualize.py
+  809  python3 scripts/02_visualize.py
+  810  cd ..
+  811  ls Corpus
+  812  ls Corpus/FRASIMED
+  813  ls Corpus/QUAERO_FrenchMed
+  814  mv Corpus/FRASIMED/* data/raw/frasimed/
+  815  mv Corpus/QUAERO_FrenchMed/* data/raw/quaero/
+  816  ls data/processed/
+  817  python3 scripts/02_visualize.py
+  818  source venv/bin/activate
+  819  pip install -r requirements.txt
+  820  pip install matplotlib seaborn
+  821  python3 scripts/02_visualize.py
+  822  cd ~/corpus-medical-ner
+  823  mkdir -p data/raw/frasimed data/raw/quaero data/processed outputs/figures
+  824  [200~mv Corpus/FRASIMED/* data/raw/frasimed/
+  825  mv Corpus/QUAERO_FrenchMed/* data/raw/quaero/
+  826  mv Corpus/FRASIMED/* data/raw/frasimed/
+  827  mv Corpus/QUAERO_FrenchMed/* data/raw/quaero/
+  828  mv Corpus/FRASIMED/* data/raw/frasimed/
+  829  mv Corpus/QUAERO_FrenchMed/* data/raw/quaero/
+  830  ls corpus
+  831  ls -l data/processed/
+  832  scripts/01_preprocess.py
+  833  ls -l data/raw/frasimed/
+  834  ls -l data/raw/quaero/
+  835  python3 scripts/01_scrape.py
+  836  python3 scripts/02_visualize.py
+  837  pip install matplotlib seaborn
+  838  cd corpus-medical-ner
+  839  mkdir -p data/raw data/processed scripts outputs/figures
+  840  mv frasimed.txt data/raw/
+  841  mv quaero.txt data/raw/
+  842  ls
+  843  mv Corpus/frasimed.txt data/raw/
+  844  mv Corpus/quaero.txt data/raw/
+  845  cd ..
+  846  mv Corpus/frasimed.txt data/raw/
+  847  mv Corpus/quaero.txt data/raw/
+  848  cd corpus-medical-ner
+  849  mkdir -p data/raw data/processed outputs/figures
+  850  mv corpus/FRASIMED/frasimed.txt data/raw/
+  851  mv corpus/QUAERO/quaero.txt data/raw/
+  852  python3 scripts/03_augment.py
+  853  pip install textaugment
+  854  python3 scripts/03_augment.py
+  855  python3 scripts/04_create_dataset.py
+  856  python3 scripts/05_finetune.py
+  857  python3 scripts/06_evaluate.py
+  858  python3 scripts/03_finetune.py
+  859  python3 scripts/03_augment.py
+  860  cd ..
+  861  cd ~/corpus-medical-ner
+  862  git init
+  863  git add .
+  864  git commit -m "Projet NER médical : scripts et README final"
+  865  git remote add origin https://github.com/KawterAb/corpus-medical-ner.git
+  866  git branch -M main
+  867  git push -u origin main
+  868  Bien sûr ! Voici :
+  869  ---
+  870  ### ✅ Ton `README.md` (sans emoji ni stickers, en style simple et clair) :
+  871  ````markdown
+  872  # NER Médical – FRASIMED + QUAERO
+  873  Projet réalisé dans le cadre du module "Outils de traitement de corpus" (M1 TAL).
+  874  ## Objectif
+  875  Constituer un corpus médical annoté en entités nommées (MALADIE, SYMPTÔME, TRAITEMENT) à partir des corpus FRASIMED et QUAERO, et entraîner un modèle de type Transformer (CamemBERT) pour la tâche de reconnaissance d'entités nommées (NER).
+  876  ## Structure du projet
+  877  - `data/` : données brutes, données au format BIO, données augmentées
+  878  - `scripts/` : scripts de traitement, visualisation, entraînement et évaluation
+  879  - `outputs/` : sorties graphiques, modèles entraînés, logs
+  880  - `requirements.txt` : bibliothèques Python nécessaires
+  881  - `README.md` : description du projet
+  882  ## Pipeline du projet
+  883  1. Fusion et annotation des corpus (`01_merge.py`)
+  884  2. Visualisation des données et statistiques textuelles (`02_stats.py`)
+  885  3. Augmentation de données (`03_augment.py`)
+  886  4. Conversion vers le format HuggingFace Dataset (`04_create_dataset.py`)
+  887  5. Entraînement du modèle CamemBERT (`05_finetune.py`)
+  888  6. Évaluation du modèle (`06_evaluate.py`)
+  889  ## Données et tâche
+  890  - **Tâche** : Reconnaissance d'entités nommées (NER)
+  891  - **Données utilisées** : FRASIMED et QUAERO
+  892  - **Format** : BIO (token \t étiquette)
+  893  - **Entités annotées** : MALADIE, SYMPTÔME, TRAITEMENT
+  894  ## Résultats attendus
+  895  - Corpus annoté et augmenté
+  896  - Visualisations statistiques (fréquences, longueurs, etc.)
+  897  - Modèle entraîné (CamemBERT)
+  898  - Évaluation du modèle avec `classification_report` (sklearn)
+  899  - Sauvegarde des sorties dans `outputs/`
+  900  ## Installation
+  901  Créer un environnement virtuel et installer les dépendances avec :
+  902  ```bash
+  903  pip install -r requirements.txt
+  904  ````
+  905  ## Remarques
+  906  * Tous les scripts sont fournis et bien structurés.
+  907  * Certains modules n’ont pas pu être exécutés jusqu’au bout localement à cause d’un problème d’espace disque, mais le code est complet.
+  908  * L’environnement virtuel n’est pas inclus dans le dépôt.
+  909  ````
+  910  ---
+  911  ### ✅ Ton fichier `.gitignore`
+  912  Voici un `.gitignore` adapté pour un projet Python avec datasets, modèles, etc. :
+  913  ```gitignore
+  914  # Fichiers Python
+  915  __pycache__/
+  916  *.py[cod]
+  917  *.pyo
+  918  *.pyd
+  919  # Fichiers de logs et outputs
+  920  outputs/
+  921  *.log
+  922  # Environnements virtuels
+  923  venv/
+  924  .env/
+  925  # Données
+  926  data/raw/
+  927  *.zip
+  928  *.tar.gz
+  929  # Fichiers de modèles HuggingFace
+  930  *.bin
+  931  *.pt
+  932  *.h5
+  933  # Jupyter
+  934  .ipynb_checkpoints/
+  935  # MacOS
+  936  .DS_Store
+  937  ````
+  938  ---
+  939  Tu peux copier ces fichiers dans ton dépôt :
+  940  1. `README.md` à la racine.
+  941  2. `.gitignore` à la racine aussi.
+  942  Puis commits et push :
+  943  ```bash
+  944  git add README.md .gitignore
+  945  git commit -m "Ajout du README et du fichier .gitignore"
+  946  git push
+  947  ```
+  948  Souhaite-tu aussi un exemple de `requirements.txt` propre ?
+  949  clear
+  950  pwd
+  951  habib@habib-VirtualBox:~/Group_Project_PPE1_2024/Group_Project_PPE1_2024$ bash script-francais.sh urls_francais.txt
+  952  Le fichier à lire : urls_francais.txt
+  953  script-francais.sh: ligne 24: /home/habib/Bureau/PPE/Group_Project_PPE1_2024/Group_Project_PPE1_2024/tableaux/fr_tableau/francais.html: Aucun fichier ou dossier de ce nom
+  954  Erreur : L'URL https://www.reseau-canope.fr/je-dessine/liberte-dexpression.html renvoie 302
+  955  script-francais.sh: ligne 44: /home/habib/Bureau/PPE/Group_Project_PPE1_2024/Group_Project_PPE1_2024/tableaux/fr_tableau/francais.html: Aucun fichier ou dossier de ce nom
+  956  Erreur : L'URL https://www.coe.int/fr/web/freedom-expression renvoie 403
+  957  script-francais.sh: ligne 44: /home/habib/Bureau/PPE/Group_Project_PPE1_2024
+  958  bash script-francais.sh urls_francais.txt
+  959  cd ..
+  960  bash script-francais.sh urls_francais.txt
+  961  ./programmes/script-francais.sh urls_francais.txt
+  962  chmod +x programmes/script-francais.sh
+  963  ./script-francais.sh ../urls_francais.txt
+  964  chmod +x script-francais.sh
+  965  ./script-francais.sh ../urls_francais.txt
+  966  ./script-francais.sh ../URLs/urls_francais.txt
+  967  ls francais-*.txt
+  968  cd ..
+  969  cat contextes/francais-*.txt > pals/contextes-francais.txt
+  970  sudo rm -rf /var/lib/snapd/snaps/*.snap
+  971  sudo snap repair
+  972  sudo snap refresh
+  973  df -h
+  974  sudo apt clean
+  975  sudo rm -rf /var/log/*
+  976  sudo apt update
+  977  sudo apt install --reinstall snapd
+  978  sudo reboot
+  979  sudo snap install firefox
+  980  snap help refresh
+  981  sudo apt firefox
+  982  sudo apt reinstall snapd
+  983  sudo snap refresh
+  984  sudo rm -rf /var/lib/snapd/snaps/*
+  985  sudo rm -rf /snap/*
+  986  sudo rm -rf /var/snap/*
+  987  sudo rm -rf /home/*/.snap
+  988  sudo systemctl stop snapd
+  989  sudo apt purge snapd -y
+  990  sudo apt autoremove -y
+  991  sudo apt install snapd -y
+  992  sudo reboot
+  993  mkdir -p Exercice1
+  994  cd Exercice1
+  995  wget "http://plurital.org/ppe1/seance1/archive-1.zip" -O fichiers.zip
+  996  cd fichiers
+  997  ls
+  998  cd ~/cours/plurital/PPE1-2025/Exercice1
+  999  mkdir -p resultat/txt
+ 1000  mkdir -p resultat/ann
+ 1001  mkdir -p resultat/img
+ 1002  mkdir -p resultat/docs
+ 1003  tree resultat
+ 1004  ls
+ 1005  cd fichiers
+ 1006  ls
+ 1007  cd ~/cours/plurital/PPE1-2025/Exercice1/fichiers
+ 1008  for f in *.txt; do     year=$(date -r "$f" +%Y);     month=$(date -r "$f" +%m);     mkdir -p ~/cours/plurital/PPE1-2025/Exercice1/resultat/txt/$year/$month;     mv "$f" ~/cours/plurital/PPE1-2025/Exercice1/resultat/txt/$year/$month/; done
+ 1009  for f in *.ann; do     year=$(date -r "$f" +%Y);     month=$(date -r "$f" +%m);     mkdir -p ~/cours/plurital/PPE1-2025/Exercice1/resultat/ann/$year/$month;     mv "$f" ~/cours/plurital/PPE1-2025/Exercice1/resultat/ann/$year/$month/; done
+ 1010  for f in *.jpg *.jpeg *.png *.gif *.svg *.JPG 2>/dev/null; do
+ 1011  done
+ 1012  for f in *.jpg *.jpeg *.png *.gif *.svg *.JPG; do     [ -e "$f" ] || continue     if echo "$f" | grep -qi "paris"; then         ville="Paris";     elif echo "$f" | grep -qi "tokyo"; then         ville="Tokyo";     elif echo "$f" | grep -qi "washington"; then         ville="Washington";     elif echo "$f" | grep -qi "berlin"; then         ville="Berlin";     elif echo "$f" | grep -qi "rome"; then         ville="Rome";     elif echo "$f" | grep -qi "taipei"; then         ville="Taipei";     else         ville="Autres";     fi     mkdir -p ~/cours/plurital/PPE1-2025/Exercice1/resultat/img/$ville;     mv "$f" ~/cours/plurital/PPE1-2025/Exercice1/resultat/img/$ville/; done
+ 1013  ls
+ 1014  for f in *.jpg *.jpeg *.png *.PNG *.gif *.GIF *.svg *.JPG *.webp 2>/dev/null; do
+ 1015  done
+ 1016  mkdir -p txt/2016 txt/2017 txt/2018
+ 1017  mkdir -p ann/2016 ann/2017 ann/2018
+ 1018  Année Cible,Dossier de Destination,Commande mv à utiliser
+ 1019  2016,txt/2016/,mv archive-1/2016_*.txt txt/2016/
+ 1020  2017,txt/2017/,mv archive-1/2017_*.txt txt/2017/
+ 1021  2018,txt/2018/,mv archive-1/2018_*.txt txt/2018/
+ 1022  mv archive-1/2016_*.txt txt/2016/
+ 1023  mv archive-1/2017_*.txt txt/2017/
+ 1024  mv archive-1/2018_*.txt txt/2018/
+ 1025  mv archive-1/2016_*.ann ann/2016/
+ 1026  mv archive-1/2017_*.ann ann/2017/
+ 1027  mv archive-1/2018_*.ann ann/2018/
+ 1028  mv archive-1/*.doc docs/
+ 1029  cd archive-1
+ 1030  ls archive-1/*.{jpg,png,jpeg}
+ 1031  ls
+ 1032  cd ..
+ 1033  mkdir -p img/Berlin img/Kyoto img/Paris img/Rome img/Taipei img/Tokyo img/Washington
+ 1034  mv archive-1/*Berlin*.{jpg,png,jpeg,gif,svg,JPG,PNG,JPEG} img/Berlin/
+ 1035  mv archive-1/*Kyoto*.{jpg,png,jpeg,gif,svg,JPG,PNG,JPEG} img/Kyoto/
+ 1036  mv archive-1/*Paris*.{jpg,png,jpeg,gif,svg,JPG,PNG,JPEG} img/Paris/
+ 1037  mv archive-1/*Rome*.{jpg,png,jpeg,gif,svg,JPG,PNG,JPEG} img/Rome/
+ 1038  mv archive-1/*Taipei*.{jpg,png,jpeg,gif,svg,JPG,PNG,JPEG} img/Taipei/
+ 1039  mv archive-1/*Tokyo*.{jpg,png,jpeg,gif,svg,JPG,PNG,JPEG} img/Tokyo/
+ 1040  mv archive-1/*Washington*.{jpg,png,jpeg,gif,svg,JPG,PNG,JPEG} img/Washington/
+ 1041  mv archive-1/*Taipei*.{13-Taipei_Taishin_Mars.webp} img/Taipei/
+ 1042  mv archive-1/*Taipei*.{.webp} img/Taipei/
+ 1043  mv archive-1/*.docx docs/
+ 1044  mv archive-1/*.odt docs/
+ 1045  mv archive-1/*.pdf docs/
+ 1046  mkdir img/Guernsey
+ 1047  mv archive-1/*Guernsey*.GIF img/Guernsey/
+ 1048  mv archive-1/*Taipei*.webp img/Taipei/
+ 1049  zip -r mon_archive_triee.zip txt ann img docs
+ 1050  history > historique_commandes.txt
