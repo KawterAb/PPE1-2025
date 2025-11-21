@@ -15,13 +15,20 @@ if [ ! -f "$FICHIER_URLS" ]; then
     exit 1
 fi
 
-# 1. Écrire l'entête du document HTML
+# 1. Écrire l'entête du document HTML avec Bulma
+echo "<!DOCTYPE html>"
 echo "<html>"
-echo "<head><meta charset=\"UTF-8\"><title>Rapport de Web Scraping</title></head>"
+echo "<head>"
+echo "<meta charset=\"UTF-8\">"
+echo "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">"
+echo "<title>Résultats Web Scraping - Bulma Style</title>"
+echo "<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css\">"
+echo "</head>"
 echo "<body>"
-echo "<h1>Rapport de Web Scraping - Sortie HTML</h1>"
-echo "<table>"
-
+echo "<section class=\"section\">"
+echo "<div class=\"container\">"
+echo "<h1 class=\"title is-2\">Rapport de Web Scraping - Résultats</h1>"
+echo "<table class=\"table is-bordered is-striped is-narrow is-hoverable is-fullwidth\">"
 # 2. Écrire la ligne d'en-tête du tableau (<th>)
 echo "<tr><th>numero</th><th>URL</th><th>code</th><th>encodage</th><th>nombre de mots</th></tr>"
 
@@ -63,9 +70,11 @@ do
 done < "$FICHIER_URLS"
 
 # 4. Fermer les balises HTML
+# 4. Fermer les balises HTML et Bulma
 echo "</table>"
+echo "</div>"
+echo "</section>"
 echo "</body>"
 echo "</html>"
-
 # Nettoyage
 rm -f ./.data.tmp
